@@ -1,0 +1,14 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "type": "text",
+          "text": "Are you connected to Ollama?"
+        }
+      ]
+    }
+  ],
+  "model": "granite3-dense:8b"
+}
